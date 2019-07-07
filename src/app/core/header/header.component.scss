@@ -1,0 +1,16 @@
+.header {
+    z-index: 1;
+    position: relative;
+    margin-bottom: -50px; /* negative value of footer height */
+    height: 50px;
+    clear:both;
+    padding:5px !important;
+    max-height: 50px;
+  }
+  
+  .btn-logout {
+    height: 30px;
+    margin-top: -10px;
+    padding: 5px;
+    font-size: small;
+  }
